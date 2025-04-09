@@ -1,7 +1,8 @@
-# Materias Aprovadas
+# Materias Aprobadas
 
-*Sistemas Operativos
-*Inteligencia de Negocios
-*Ingenieria Wed
-*Estadistica
-*Practicum
+- Sistemas Operativos  
+- Inteligencia de Negocios  
+- Ingeniería Web  
+- Estadística  
+- Practicum
+

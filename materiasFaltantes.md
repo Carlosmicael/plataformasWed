@@ -1,9 +1,10 @@
 # Materias Faltantes
 
-*Antropologia
-*Etica y Moral
-*Redes
-*Plataformas Wed
-*Plataformas Moviles
-*Practicum 2.2
-*Ingenieria de Requisitos
+- Antropología  
+- Ética y Moral  
+- Redes  
+- Plataformas Web  
+- Plataformas Móviles  
+- Practicum 2.2  
+- Ingeniería de Requisitos
+
